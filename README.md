@@ -1,8 +1,12 @@
-# 飛飛飛 - 航空哩程計算器 Support & Privacy Site
+# 哩程管家 MileButler｜支援與隱私權網站
 
-這是「飛飛飛 - 航空哩程計算器」的獨立 GitHub Pages 網站，整合：
+「哩程管家：信用卡換機票試算」（MileButler）的 GitHub Pages 網站，整合：
 
 - 開發者聯繫方式
+- 哩程管家 Pro 訂閱說明
+- 版權說明
 - 隱私權政策
 
-此站設計為 App Store 上架用支援頁，不放入 app 內部。
+網址：https://victoriac1122.github.io/milebutler-support/
+
+此站為 App Store 上架用的支援頁，不放入 app 內部。
