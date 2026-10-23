@@ -1,12 +1,14 @@
-# 哩程管家 MileButler｜支援與隱私權網站
+# feifeifei-mileage-support-site
 
-「哩程管家：信用卡換機票試算」（MileButler）的 GitHub Pages 網站，整合：
+此網站已搬到花火工作室 FireSparkle.Studio 官網。這個 repo 只保留轉址頁，讓舊版 App、App Store 與外部連結自動轉到新網址。
 
-- 開發者聯繫方式
-- 哩程管家 Pro 訂閱說明
-- 版權說明
-- 隱私權政策
+- 作品頁：https://firesparkle.com/app/milebutler/
+- 隱私權政策：https://firesparkle.com/app/milebutler/privacy/
+- 支援與聯絡：https://firesparkle.com/app/milebutler/support/
+- 聯絡信箱：firesparkle.studio@gmail.com
 
-網址：https://victoriac1122.github.io/milebutler-support/
+轉址規則：網址含 privacy 轉到隱私權政策；含 support、contact 轉到支援與聯絡；含 copyright 轉到支援頁的版權標示；含 terms 轉到 Apple 標準授權條款（EULA）。舊網址的語言（`?lang=`、`/en/`、`/ja/`、`/zh-Hans/`）會帶到新網站。
 
-此站為 App Store 上架用的支援頁，不放入 app 內部。
+舊的網站內容保留在 git 歷史中。確認 App Store Connect 與各 App 新版都已改用 firesparkle.com 後，可以到 Settings → Pages 關閉這個網站。
+
+© 花火工作室 FireSparkle.Studio
